@@ -1,7 +1,10 @@
 # Jeffery_butler_carbon_game
 Users will enter their answers once a day.
+
 The above calculations will determine how much CO2 they produced that day.
+
 They will get a score using above calculations every day. The emissions are subtracted from a fixed value so that scores can be positive.
+
 The score will be cumulative, giving users an incentive to input their footprint everyday and emit less CO2
 
 
